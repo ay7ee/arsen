@@ -1,0 +1,33 @@
+Hello my name is Tolebay Arsen i am a student of se 2001
+My topic is Telegram bot.
+So i have created a bot called CS pedia
+This is a bot that show an information about CS:GO
+teams and pro gamers
+
+Commands
+My bot has 4 commands they are:
+/start  -  To start the bot
+/help  -  the list of commands
+/go  -  to enter names of teams or gamers
+/defuse  -  to rate the bot
+
+
+first 2 days i was choosing topic to my project
+third day i choosed programming language. I choosed python and Used PyCharm
+from 11 - 16 november i had been learning. I readed documentation telegram Api and watched videos on youtube
+next days i was creating main mechanism and filling data
+to fill data about gamers and teams i used sites like hltv.org and liquipedia.net
+
+
+
+problems i faced
+
+when i created keyboard and click one of them then if i click second keyboard it wasnt read it and always was taking data of first keyboard 
+
+also it was problematic to send stickers
+
+Python is a new programming language for me thats why i had a lot of problem with syntax
+
+so now i have finished my project and 
+these 2 weeks were very interesting. So now i've learned some function on python and learned to create telegram bot. Also i have learned some term word related to IT sphere such as API , token and etc.
+
